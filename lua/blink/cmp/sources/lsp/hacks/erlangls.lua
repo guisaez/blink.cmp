@@ -2,7 +2,7 @@
 -- Example response from the erlang_ls lsp when typing module attributes
 -- {
 -- is_incomplete_backward = true,
--- is_incommplete_wordward = false,
+-- is_incomplete_fordward = false,
 -- items = {{
 --      client_id = 1,
 --      client_name = "erlangls",
